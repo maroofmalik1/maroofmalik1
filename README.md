@@ -1,2 +1,2 @@
-Hi I am Maroof Malik(He/Him)
-Undergraduate Computer Science Student | JavaScript, Node.js , React | Web Development
+Hi I am Maroof
+I am a Computer Science Student , my skills are in web development
